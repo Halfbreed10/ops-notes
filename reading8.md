@@ -3,7 +3,7 @@
 ## Reading 8
 
 What is an ISO file?:
-
+It is important to understand what ISO files are and how they are made because we downloaded our own and programed or lab computers with it.
 
 What is an ISO File? An ISO file, often called an ISO image, is a single file that's a perfect representation of an entire CD, DVD, or BD.
 
