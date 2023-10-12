@@ -2,8 +2,7 @@
 
 ## Reading 6
 
-What one home router can do:
-
+What one home router can do: This is relevent to our course becuase it will allows us to know what kind of router to use when we are trying to install opeb source firmware. Without this knowledge I would not have known.
 
 What makes the Linksys WRT54GL famous? Linksys WRT54GL is famous because it let users install open source firmware on new routers without breaking the latest FCC anti-interference rules. 
 
